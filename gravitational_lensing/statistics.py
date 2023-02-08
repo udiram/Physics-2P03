@@ -2,11 +2,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import r2_score
 
-# Generate some sample data
-np.random.seed(0)
-x = np.linspace(0, 10, 100)
-y = 2 * x + np.random.normal(0, 2, 100)
-
+# # Generate some sample data
+# np.random.seed(0)
+# x = np.linspace(0, 10, 100)
+# y = 2 * x + np.random.normal(0, 2, 100)
+x = [1,2,3,4] # predictions
+y = [1,2,3,4] # actual values
 # Fit a line of best fit to the data
 fit = np.polyfit(x, y, 1)
 fit_fn = np.poly1d(fit)
