@@ -1,4 +1,4 @@
-The assignment being submitted for evaluation can be found in assignment_standard.ipynb. 
+The assignment being submitted for evaluation can be found in assignment_standard.ipynb. (https://github.com/udiram/Physics-2P03/tree/master/python_assignment)
 
 #Disclaimer: This data is NOT from an elevator, but from a simulation of an elevator by moving the accelerometer upwards, then downwards in a roughly uniform fashion by hand over a short distance. This was conducted due to the unfeasibility of conducting the experiment in real life, with recorded data being extremely noisy, and not conduisive to this analysis. For future cases, I would highly consider an experiment involving the derivation of the gravitational constant from a free falling object, as this would be much more accurate and less noisy, and would be much more readily available to all students, regardless of whether they are able to access an elevator.
 
