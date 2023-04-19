@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/charge_to_mass/single_trial.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/cyclotron_tuning/data.csv">
           <value>
             <Attribute>
